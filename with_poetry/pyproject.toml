@@ -3,7 +3,7 @@ name = "with-poetry"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Alexey Tukin",email = "tukin2123k@gmail.com"}
+    {name = "Alexey Tukin",email = "tukin2k@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
